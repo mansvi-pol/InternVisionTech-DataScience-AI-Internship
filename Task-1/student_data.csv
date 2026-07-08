@@ -1,0 +1,51 @@
+Student ID,Student Name,Department,Attendance Percentage,Marks Obtained,Study Hours,Semester
+101,Rahul,Computer Engineering,62,45,1,4
+102,Priya,Information Technology,75,55,2,4
+103,Sneha,AI & DS,72,67,3,4
+104,Neha,Electronics,83,72,4,4
+105,Aman,Mechanical,86,80,5,4
+106,Nita,Civil,95,89,6,4
+107,Tina,Chemical,64,95,7,4
+108,Rohit,AI & DS,69,86,3,4
+109,Aditi,Electronics,63,75,4,4
+110,Karan,Mechanical,78,42,5,4
+111,Pooja,Civil,73,35,7,4
+112,Riya,Chemical,85,40,2,4
+113,Yira,Mechanical,79,56,3,4
+114,Juhi,Information Technology,80,57,4,4
+115,Rohita,AI & DS,90,52,5,4
+116,Rupali,Electronics,84,86,6,4
+117,Gargi,Mechanical,91,89,7,4
+118,Jayshree,Civil,92,54,5,4
+119,Gauri,Chemical,94,57,6,4
+120,Vibha,Computer Engineering,95,56,7,4
+121,Sunita,Information Technology,96,86,5,4
+122,Avanti,AI & DS,85,84,6,4
+123,Yashika,Electronics,61,89,7,4
+124,Mansvi,Mechanical,60,78,3,4
+125,Trisha,Civil,63,65,4,4
+126,Shravani,Chemical,88,78,5,4
+127,Pooja,AI & DS,87,89,7,4
+128,Pallavi,Electronics,85,52,6,4
+129,Vaishnavi,Mechanical,62,56,7,4
+130,Payal,Civil,89,90,5,4
+131,Purva,Chemical,95,92,6,4
+132,Anushka,Civil,85,93,7,4
+133,Saniya,Chemical,84,96,5,4
+134,Kumkum,AI & DS,86,98,6,4
+135,Dipali,Electronics,81,87,7,4
+136,Kavya,Mechanical,83,78,5,4
+137,Nandini,Civil,87,89,6,4
+138,Supriya,Chemical,95,96,7,4
+139,Ashwini,Computer Engineering,92,93,3,4
+140,Aastha,Information Technology,91,92,7,4
+141,Abhilasha,AI & DS,93,91,3,4
+142,Arya,Electronics,97,98,4,4
+143,Sejal,Computer Engineering,95,75,5,4
+144,Utkarsha,Information Technology,96,81,7,4
+145,Punam,AI & DS,97,76,2,4
+146,Saniya,Electronics,85,85,2,4
+147,Janvi,Mechanical,87,46,3,4
+148,Sheetal,Civil,81,85,4,4
+149,Shital,Chemical,83,75,5,4
+150,Ayushi,AI & DS,90,92,6,4

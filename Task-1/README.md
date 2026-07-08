@@ -7,7 +7,9 @@ The objective of this task was to understand the fundamentals of Data Science an
 ## 🏢 Internship
 
 **Organization:** InternVision Tech
+
 **Domain:** Data Science & Artificial Intelligence
+
 **Task:** Task 1 – Data Analysis & AI Fundamentals Using Python
 
 ## 📂 Dataset

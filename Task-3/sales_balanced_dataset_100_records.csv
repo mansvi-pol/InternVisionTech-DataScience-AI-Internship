@@ -1,0 +1,101 @@
+Order_ID,Order_Date,Product,Category,Region,Customer_Type,Quantity,Unit_Price,Discount_Percentage,Sales,Profit
+ORD001,25-01-2025,Cookware,Home & Kitchen,East,New,4,2472.45,0,9889.8,2196.8
+ORD002,24-01-2025,Cooking Oil,Groceries,West,New,1,825.47,15,701.65,103.13
+ORD003,12-04-2025,Rice Bag,Groceries,North,New,2,1231.35,0,2462.7,486.9
+ORD004,24-05-2025,Smartphone,Electronics,South,New,3,6394.88,0,19184.64,3781.13
+ORD005,08-06-2025,Cooking Oil,Groceries,South,Returning,3,827.54,0,2482.62,487.68
+ORD006,05-03-2025,Snacks,Groceries,South,New,3,347.59,15,886.35,156.14
+ORD007,15-03-2025,Headphones,Electronics,North,New,5,1798.24,10,8092.08,1723.16
+ORD008,18-04-2025,Snacks,Groceries,North,New,2,368,5,699.2,163.14
+ORD009,27-04-2025,Coffee,Groceries,North,New,3,519.53,15,1324.8,262.3
+ORD010,21-03-2025,Air Fryer,Home & Kitchen,West,Returning,6,4957.59,0,29745.54,6339.25
+ORD011,30-01-2025,Yoga Mat,Sports,West,New,1,761.69,10,685.52,107.49
+ORD012,08-05-2025,Shoes,Fashion,North,New,2,2723.95,15,4630.71,829.34
+ORD013,21-05-2025,Dumbbells,Sports,East,Returning,5,2102.25,5,9985.69,2216.1
+ORD014,18-06-2025,Air Fryer,Home & Kitchen,South,New,2,4464.88,5,8483.27,1316.01
+ORD015,05-04-2025,Cricket Bat,Sports,East,New,3,1721.5,5,4906.27,892.42
+ORD016,11-04-2025,Rice Bag,Groceries,North,Returning,4,1295.89,15,4406.03,792.23
+ORD017,29-01-2025,Football,Sports,East,New,2,822.12,5,1562.03,287.51
+ORD018,07-06-2025,Laptop,Electronics,North,New,5,7907.15,0,39535.75,9286.75
+ORD019,02-05-2025,Jacket,Fashion,North,New,2,2259.14,10,4066.45,814.22
+ORD020,29-03-2025,Dumbbells,Sports,East,Returning,4,2192.89,0,8771.56,1354.43
+ORD021,20-05-2025,T-Shirt,Fashion,North,Returning,2,763.14,10,1373.65,212.45
+ORD022,27-02-2025,Headphones,Electronics,East,New,5,1752.01,5,8322.05,1461.1
+ORD023,07-05-2025,Cooking Oil,Groceries,East,New,2,957.3,5,1818.87,291
+ORD024,31-03-2025,Headphones,Electronics,East,New,4,1713.3,10,6167.88,1139.35
+ORD025,09-06-2025,T-Shirt,Fashion,North,Returning,2,695.81,10,1252.46,200.94
+ORD026,21-02-2025,Mixer,Home & Kitchen,West,New,6,2587.15,15,13194.47,2879.43
+ORD027,22-01-2025,Yoga Mat,Sports,South,New,1,742.12,15,630.8,117.53
+ORD028,07-02-2025,T-Shirt,Fashion,West,Returning,2,712.71,15,1211.61,267.34
+ORD029,05-02-2025,Jeans,Fashion,West,New,1,1263.99,0,1263.99,243.52
+ORD030,25-03-2025,T-Shirt,Fashion,East,Returning,3,659.79,5,1880.4,406.86
+ORD031,13-05-2025,T-Shirt,Fashion,West,New,6,679.53,15,3465.6,714.77
+ORD032,05-06-2025,Cooking Oil,Groceries,North,New,5,901.9,15,3833.07,834.27
+ORD033,25-03-2025,Jeans,Fashion,West,New,4,1433.35,0,5733.4,1121.73
+ORD034,10-05-2025,Rice Bag,Groceries,West,New,2,1125.91,0,2251.82,489.15
+ORD035,26-04-2025,Smartwatch,Electronics,West,New,3,3272.02,5,9325.26,1951.53
+ORD036,05-02-2025,Coffee,Groceries,West,New,5,539.28,5,2561.58,573.79
+ORD037,24-02-2025,Dumbbells,Sports,East,New,3,2011.92,5,5733.97,1048.36
+ORD038,26-02-2025,Shoes,Fashion,North,Returning,2,2471.62,5,4696.08,1111.82
+ORD039,12-05-2025,Cricket Bat,Sports,West,Returning,6,1919.68,5,10942.18,2304.78
+ORD040,22-05-2025,Cricket Bat,Sports,West,Returning,3,1734.67,10,4683.61,664.83
+ORD041,17-01-2025,Smartwatch,Electronics,North,New,3,3211.16,10,8670.13,1657.96
+ORD042,03-02-2025,Laptop,Electronics,West,Returning,3,8112.26,5,23119.94,3862.06
+ORD043,23-01-2025,Cricket Bat,Sports,East,New,5,1950.9,15,8291.32,1741.52
+ORD044,08-03-2025,Jacket,Fashion,North,New,1,2098.33,0,2098.33,426.89
+ORD045,17-04-2025,Headphones,Electronics,East,New,1,1783.36,10,1605.02,384.29
+ORD046,21-02-2025,Smartphone,Electronics,East,Returning,1,7109.98,10,6398.98,928.1
+ORD047,05-01-2025,Cooking Oil,Groceries,East,New,3,890.22,5,2537.13,423.83
+ORD048,04-03-2025,Laptop,Electronics,West,New,6,8509.61,5,48504.78,9284.95
+ORD049,20-03-2025,Dumbbells,Sports,South,New,5,2347.23,15,9975.73,2364.56
+ORD050,30-03-2025,Cookware,Home & Kitchen,North,New,6,2509.85,5,14306.14,2581.83
+ORD051,15-01-2025,Laptop,Electronics,North,Returning,6,8909.51,10,48111.35,8807.94
+ORD052,17-02-2025,Coffee,Groceries,South,Returning,5,474.22,10,2133.99,308.41
+ORD053,21-05-2025,Football,Sports,East,New,3,875.55,10,2363.98,560.88
+ORD054,22-01-2025,Headphones,Electronics,West,Returning,2,1748.37,0,3496.74,606.8
+ORD055,23-01-2025,Cooking Oil,Groceries,South,Returning,2,900.85,0,1801.7,268.61
+ORD056,22-01-2025,Rice Bag,Groceries,South,Returning,4,1085.4,10,3907.44,793.08
+ORD057,12-05-2025,Air Fryer,Home & Kitchen,West,New,2,4592.81,5,8726.34,1259.9
+ORD058,11-01-2025,Rice Bag,Groceries,South,Returning,6,1220.17,5,6954.97,1032.88
+ORD059,24-06-2025,Smartwatch,Electronics,South,Returning,4,3237.46,0,12949.84,2623.93
+ORD060,17-01-2025,Mixer,Home & Kitchen,West,Returning,4,2966.71,0,11866.84,2443.74
+ORD061,16-06-2025,Headphones,Electronics,West,Returning,2,1882.56,5,3576.86,583.29
+ORD062,07-06-2025,Football,Sports,South,New,4,973.88,10,3505.97,759.73
+ORD063,04-02-2025,Cooking Oil,Groceries,North,Returning,3,855.71,10,2310.42,466.97
+ORD064,22-06-2025,Smartwatch,Electronics,West,Returning,3,3502.41,0,10507.23,2198.31
+ORD065,21-05-2025,Coffee,Groceries,South,Returning,4,496.59,0,1986.36,475.4
+ORD066,26-04-2025,Smartwatch,Electronics,East,Returning,1,3065.34,0,3065.34,680.47
+ORD067,09-03-2025,Jeans,Fashion,East,New,1,1422.81,5,1351.67,290.27
+ORD068,05-05-2025,Coffee,Groceries,West,New,1,520.33,5,494.31,93.81
+ORD069,06-02-2025,T-Shirt,Fashion,West,Returning,4,725.42,15,2466.43,419.77
+ORD070,28-03-2025,Yoga Mat,Sports,West,New,1,747.63,0,747.63,128.93
+ORD071,10-04-2025,T-Shirt,Fashion,North,Returning,6,670.58,10,3621.13,530.49
+ORD072,15-03-2025,Yoga Mat,Sports,South,New,1,669.29,0,669.29,149.56
+ORD073,20-04-2025,Air Fryer,Home & Kitchen,North,Returning,5,4622.98,10,20803.41,4545.84
+ORD074,05-02-2025,Cooking Oil,Groceries,East,Returning,6,824.5,15,4204.95,778.28
+ORD075,07-03-2025,Smartphone,Electronics,East,Returning,2,6463.84,10,11634.91,1956.7
+ORD076,14-06-2025,Shoes,Fashion,South,New,4,2629.81,15,8941.35,1358.85
+ORD077,26-04-2025,Jacket,Fashion,West,New,5,2076.81,10,9345.65,2239.66
+ORD078,23-03-2025,Cooking Oil,Groceries,South,Returning,2,826.33,10,1487.39,290.91
+ORD079,15-05-2025,Cookware,Home & Kitchen,South,Returning,1,2519.84,15,2141.86,381.86
+ORD080,09-05-2025,Vacuum,Home & Kitchen,South,New,1,5198.07,10,4678.26,713.84
+ORD081,21-03-2025,Cookware,Home & Kitchen,North,New,4,2351.88,15,7996.39,1464.81
+ORD082,06-05-2025,Smartwatch,Electronics,North,New,6,3368.76,15,17180.68,4068.87
+ORD083,08-02-2025,Dumbbells,Sports,North,Returning,4,2089.32,0,8357.28,1357.06
+ORD084,10-01-2025,Laptop,Electronics,East,New,1,8979.91,5,8530.91,1680.06
+ORD085,15-05-2025,Air Fryer,Home & Kitchen,South,Returning,6,5053.29,0,30319.74,4458.07
+ORD086,13-03-2025,Cookware,Home & Kitchen,East,New,5,2160.55,10,9722.48,2329.87
+ORD087,20-03-2025,Cricket Bat,Sports,North,New,5,1708.94,15,7263,1528.61
+ORD088,20-06-2025,Jacket,Fashion,West,Returning,6,2264.75,0,13588.5,2251.96
+ORD089,12-04-2025,Jacket,Fashion,South,New,1,2286.16,15,1943.24,342.46
+ORD090,19-02-2025,Mixer,Home & Kitchen,South,Returning,2,2797.59,5,5315.42,909.85
+ORD091,27-02-2025,Shoes,Fashion,West,Returning,3,2396.68,15,6111.53,1228.48
+ORD092,06-02-2025,Smartphone,Electronics,West,New,4,5920.67,0,23682.68,5622.55
+ORD093,21-01-2025,Smartphone,Electronics,South,Returning,4,6434.53,10,23164.31,4940.31
+ORD094,20-06-2025,Jeans,Fashion,West,Returning,6,1522.05,15,7762.45,1111.5
+ORD095,31-03-2025,Air Fryer,Home & Kitchen,West,New,2,4424.6,0,8849.2,1486.49
+ORD096,21-04-2025,Cooking Oil,Groceries,North,New,4,874.19,10,3147.08,699.28
+ORD097,04-04-2025,Cricket Bat,Sports,West,New,3,1814.95,15,4628.12,737.27
+ORD098,29-04-2025,Cricket Bat,Sports,North,New,6,1896,0,11376,2019.89
+ORD099,27-03-2025,Cookware,Home & Kitchen,North,Returning,6,2190.17,10,11826.92,2085.06
+ORD100,01-03-2025,Vacuum,Home & Kitchen,North,Returning,3,4683.92,0,14051.76,2001.33

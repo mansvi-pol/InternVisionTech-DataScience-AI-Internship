@@ -73,16 +73,47 @@ During this internship, I gained practical experience in:
 
 ---
 
-# 🛠 Technologies & Tools
+# 🛠️ Technologies & Tools Used
 
-| Category | Technologies |
-|----------|--------------|
-| Programming | Python |
-| Data Analysis | Pandas, NumPy |
-| Visualization | Matplotlib, Seaborn |
-| Machine Learning | Scikit-learn |
-| Development | Google Colab |
-| Version Control | Git & GitHub |
+Throughout this internship, I worked with a range of industry-standard tools and libraries to perform data analysis, data preprocessing, visualization, dashboard development, and machine learning. These technologies enabled me to analyze, preprocess, visualize, and model real-world datasets while gaining practical experience through hands-on projects.
+
+---
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+### 💻 Programming Language
+- **Python** – Core programming language used for implementing all internship tasks.
+
+### 📊 Data Analysis & Preprocessing
+- **Pandas** – Data manipulation, cleaning, preprocessing, and analysis.
+- **NumPy** – Numerical computing and efficient array operations.
+
+### 📈 Data Visualization
+- **Matplotlib** – Creating charts and graphs for data visualization.
+- **Seaborn** – Building statistical and visually appealing plots.
+
+### 🤖 Machine Learning
+- **Scikit-learn** – Developing, training, and evaluating machine learning models.
+
+### ☁️ Development Environment
+- **Google Colab** – Cloud-based notebook platform used for coding, experimentation, and project development.
+
+### 🌿 Version Control
+- **Git & GitHub** – Managing project versions and publishing the internship portfolio.
 
 ---
 

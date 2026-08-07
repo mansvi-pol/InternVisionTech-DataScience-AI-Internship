@@ -10,7 +10,7 @@
 
 ---
 
-### Turning Data into Insights with Python & AI
+*Transforming Data into Insights through Python, Analytics & Machine Learning.*
 
 </div>
 
@@ -139,9 +139,15 @@ Working on multiple projects improved my analytical thinking, programming skills
 
 # 📜 Certificates
 
-✅ Certificate of Completion
+✅ Certificate of Completion :
 
-✅ Certificate of Recognition
+<img width="3510" height="2482" alt="InternVision Tech - Certificate of Completion Mansvi V  Pol_page-0001" src="https://github.com/user-attachments/assets/8a799063-76c8-4a16-b7c0-83bdf1b20952" />
+
+
+✅ Certificate of Recognition : 
+
+<img width="3510" height="2482" alt="Certificate of Recognition - Mansvi V  Pol_page-0001" src="https://github.com/user-attachments/assets/666f0d20-f76b-4699-bbe2-bfc172819fc8" />
+
 
 ---
 
@@ -159,10 +165,11 @@ https://github.com/mansvi-pol
 
 <div align="center">
 
-### ⭐ Thank you for visiting my repository!
+⭐Thank you for visiting my repository!
 
-If you found this repository helpful, feel free to explore my other projects and connect with me.
+If you found this repository interesting, feel free to explore my other projects or connect with me on LinkedIn.
 
-Happy Coding! 🚀
+Happy Learning & Happy Coding! 🚀
+
 
 </div>

@@ -28,31 +28,14 @@ Each task in this repository represents practical learning through hands-on impl
 
 ---
 
-# 🏢 Internship Details
-
-<div align="center">
-    
-| Particular | Information |
-|------------|-------------|
-| Organization | InternVision Tech |
-| Internship | Data Science & AI |
-| Duration | 4 Weeks |
-| Mode | Virtual |
-| Batch | July 2026 |
-| Status | Successfully Completed ✅ |
-    
-</div>
-
----
-
 ## 🚀 Internship Projects
 
 | Task | Project | Skills Developed |
 |:---:|---------|------------------|
-| ✅**Task 1** | Data Analysis & AI Fundamentals | Python, Pandas, NumPy, Data Visualization |
-| ✅**Task 2** | Exploratory Data Analysis & Data Preprocessing | Missing Values, Encoding, Feature Scaling, EDA |
-| ✅**Task 3** | AI Visualization Dashboard & Business Insights | Dashboard Design, KPIs, Charts, Business Insights |
-| ✅**Task 4** | AI-Powered Student Performance Prediction | Machine Learning, Regression Models, Model Evaluation |
+| ✅ **Task 1** | Data Analysis & AI Fundamentals | Python, Pandas, NumPy, Data Visualization |
+| ✅ **Task 2** | Exploratory Data Analysis & Data Preprocessing | Missing Values, Encoding, Feature Scaling, EDA |
+| ✅ **Task 3** | AI Visualization Dashboard & Business Insights | Dashboard Design, KPIs, Charts, Business Insights |
+| ✅ **Task 4** | AI-Powered Student Performance Prediction | Machine Learning, Regression Models, Model Evaluation |
 
 ---
 

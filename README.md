@@ -20,7 +20,7 @@
 
 Welcome!
 
-This repository contains all the projects completed during my **4-Week Virtual Data Science & Artificial Intelligence Internship** at **InternVision Tech**.
+This repository contains all of the projects completed during my **4-Week Virtual Data Science & Artificial Intelligence Internship** at **InternVision Tech**.
 
 Throughout this internship, I explored the complete Data Science workflow—from data collection and preprocessing to visualization, dashboard development, business insights, and Machine Learning model development.
 
@@ -159,6 +159,7 @@ flowchart LR
 
     T1 --> T2 --> T3 --> T4
 ```
+---
 
 # 🏆 Internship Outcome
 
@@ -186,7 +187,7 @@ Working on multiple projects improved my analytical thinking, programming skills
 
 ### 💼 LinkedIn
 
-www.linkedin.com/in/mansvi-pol
+[www.linkedin.com/in/mansvi-pol](https://www.linkedin.com/in/mansvi-pol-5a131036a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ### 💻 GitHub
 
